@@ -1,0 +1,88 @@
+click play btn
+
+bike pass by
+
+change to tutorial scene
+
+
+
+move with A and D
+
+space jump
+
+click to attack
+
+q to parry
+
+lever
+e to use
+
+spawn light aug
+does 1 damage only
+drops aug, grenades, flashbangs
+
+e to pickup
+
+select with number
+
+aim with mouse
+
+r to reload
+
+lever
+spawn 3 zombies
+does 5 damage only
+
+locker
+e to open
+medkit
+
+e to pickup
+
+select with 3
+
+hold mouse to heal
+
+lever
+unlock gate
+portal
+
+
+change to loading scene
+can move bike
+
+after 4 sec
+disable control
+bike pan left and wheelie
+accel right out screen
+
+
+change to lvl1 scene
+
+2 gunners alert and shooting left
+
+bike enter screen
+
+time pause
+press space to jump instruction
+
+jumps out and launches motorbike to gunners
+
+zombie approaches from behind 
+
+time pause
+Move mouse to face left and right
+
+if facing left, unpause
+
+zombie swings axe
+pause
+press q to parry
+
+unpause
+
+click to atk
+
+proceed
+
+press E to pickup

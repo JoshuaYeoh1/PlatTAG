@@ -1,0 +1,42 @@
+Report created: 
+	20/11/2022	2:29:57 PM
+
+Project name: player.aep
+
+Source files collected to: 
+	C:\Users\ChapCanai\Downloads\player folder
+
+Source files collected: For selected comps
+
+Collected comps:  
+	player
+	body
+	head
+	legs
+	grenade
+	flashbang
+	legs run
+	legs jump
+	grenadethrow
+	flashbangthrow
+	
+Number of collected files:  2
+
+Size of collected files:  592 KB
+
+Collected source files: 
+	C:\Users\ChapCanai\Desktop\Platformer Art Assignment\sprites\player\player.psd
+	C:\Users\ChapCanai\Desktop\Platformer Art Assignment\sprites\weapons\weapons.psd
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  3
+
+Effect:  CC Light Sweep
+	
+Effect:  Puppet
+	
+Effect:  Saber
+	
+
